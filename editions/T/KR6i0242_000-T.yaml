@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0242/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 禪行法想經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0605.xml
+    old_id: T15n0605
+hash: sha256:1209f70950d5dcbad22cf16abb52bd547829d254732ff1fe7c24a18555569d88
