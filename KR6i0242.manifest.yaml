@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0242_000.yaml, hash: 'sha256:1209f70950d5dcbad22cf16abb52bd547829d254732ff1fe7c24a18555569d88'}
-  - {seq: 1, filename: KR6i0242_001.yaml, hash: 'sha256:e1ce05ded6f78812ced4cf679f58aa7ee2e678ec80f169de3094a48027098668'}
+  - {seq: 1, filename: KR6i0242_001.yaml, hash: 'sha256:2bda924f079d043abcb960f3ed12f5b8a98ef66a3a62c4625204a996fb75705c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0242_001.markers.yaml, hash: 'sha256:e15b79bcc614af5f619eebcfef9d3d7284a32cbb436492716cf97819c0e39066'}
+  - {seq: 0, role: markers, filename: assets/KR6i0242_000.markers.yaml, hash: 'sha256:52795ce69023480b0db80b55ee10bdb44690457c8d771d1ea20e17297126b29a'}
+  - {seq: 1, role: markers, filename: assets/KR6i0242_001.markers.yaml, hash: 'sha256:9328f00c811508525e9f42df5c30cac4906cddbffc95b1120a4697c38c98c976'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 禪行法想經
   type: juan
   level: 1
-hash: sha256:76ba4e2046fd8e22837f8173ce82299bc999f2dfa94910c897968367325d44c6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:63333adea633dc64bad53d3879231325bceca3f7a24b387ad72723a8c14ed405
