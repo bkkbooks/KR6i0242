@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0242/v1
 canonical_location: https://kanripo.org/bkk/KR6i0242/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 禪行法想經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0242_000.yaml, hash: 'sha256:1209f70950d5dcbad22cf16abb52bd547829d254732ff1fe7c24a18555569d88'}
-  - {seq: 1, filename: KR6i0242_001.yaml, hash: 'sha256:2bda924f079d043abcb960f3ed12f5b8a98ef66a3a62c4625204a996fb75705c'}
+  - {seq: 1, filename: KR6i0242_001.yaml, hash: 'sha256:09788b2753b5aae1f596fd664eb14f9a4e0be72329ca6fa9caeb19b4344e7a72'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0242_000.markers.yaml, hash: 'sha256:52795ce69023480b0db80b55ee10bdb44690457c8d771d1ea20e17297126b29a'}
-  - {seq: 1, role: markers, filename: assets/KR6i0242_001.markers.yaml, hash: 'sha256:9328f00c811508525e9f42df5c30cac4906cddbffc95b1120a4697c38c98c976'}
+  - {seq: 1, role: markers, filename: assets/KR6i0242_001.markers.yaml, hash: 'sha256:7a66549d1a30a4fe5f00b5ffcc0838e055daa66d9a45cd42f08e861188d25bf5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 禪行法想經
   type: juan
   level: 1
-hash: sha256:63333adea633dc64bad53d3879231325bceca3f7a24b387ad72723a8c14ed405
+hash: sha256:f372769c93bf7a8882142472e684fdfacd4eea1a485541dd37fbed09cf7d4c09
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
